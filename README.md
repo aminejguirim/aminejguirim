@@ -16,7 +16,7 @@
 
 Ingénieur en informatique spécialisé en **systèmes, réseaux et support IT**, je possède environ **3 ans d'expérience** dans l'administration et le maintien en condition opérationnelle d'environnements informatiques.
 
-Je poursuis actuellement un **Mastère Spécialisé Cybersecurity and Smart Systems à CY Tech**, avec un intérêt particulier pour la sécurité des infrastructures, la gestion des identités et la sécurisation des environnements Cloud.
+Je poursuis actuellement un **Mastère Spécialisé Cybersecurity and Smart Systems**, avec un intérêt particulier pour la sécurité des infrastructures, la gestion des identités et la sécurisation des environnements Cloud.
 
 - 🖥️ Support utilisateurs, diagnostic et résolution d'incidents
 - ☁️ Administration Microsoft 365 et environnements Azure
